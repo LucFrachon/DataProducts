@@ -1,0 +1,8 @@
+name: TitanicLightDataset
+account: lucfrachon-ds
+server: shinyapps.io
+bundleId: 374830
+url: https://lucfrachon-ds.shinyapps.io/TitanicLightDataset/
+when: 1455723242.07137
+asMultiple: FALSE
+asStatic: FALSE
